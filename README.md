@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mervejss0" target="blank"><img src="https://img.shields.io/twitter/follow/mervejss0?logo=twitter&style=for-the-badge" alt="mervejss0" /></a> </p>
 
-- 🔭 I’m currently working on [SURVEY WEB](https://github.com/mervejss/anketweb)
+- 🔭 I’m currently working on [MyCourse WEB](https://github.com/mervejss/MyCourseWeb)
 
 - 👯 I’m looking to collaborate on [HATİM CHAIN](https://github.com/HuseyinKla/Hatim-Chain)
 
